@@ -1,5 +1,29 @@
 export default [
   {
+    price_id: "1604928350878",
+    sell_price: 899305,
+    buy_price: 942000,
+    date_price: "2020-11-10T00:00:00+07:00",
+  },
+  {
+    price_id: "1604836324847",
+    sell_price: 898320,
+    buy_price: 941000,
+    date_price: "2020-11-09T00:00:00+07:00",
+  },
+  {
+    price_id: "1604737259464",
+    sell_price: 898320,
+    buy_price: 941000,
+    date_price: "2020-11-08T00:00:00+07:00",
+  },
+  {
+    price_id: "1604664865854",
+    sell_price: 898320,
+    buy_price: 941000,
+    date_price: "2020-11-07T00:00:00+07:00",
+  },
+  {
     price_id: "1604633302496",
     sell_price: 898320,
     buy_price: 941000,
